@@ -1,0 +1,1 @@
+Coloque aqui aicusbwifi.Inf, aicusbwifi.Sys e aicusbwifi.cat (veja o README, Passo 1).

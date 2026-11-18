@@ -1,0 +1,1 @@
+Coloque aqui aicloadfw.Inf, aicloadfw.Sys e aicloadfw.cat (veja o README, Passo 1).

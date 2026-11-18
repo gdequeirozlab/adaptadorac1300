@@ -1,0 +1,5 @@
+ativar/drivers/**/*.Sys
+ativar/drivers/**/*.sys
+ativar/drivers/**/*.Inf
+ativar/drivers/**/*.inf
+ativar/drivers/**/*.cat
